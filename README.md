@@ -3,4 +3,4 @@
 - The  project is  private  to avoid  leaking  important credentials  used  to cnfigure  the  app.
 
 
-__ Find  it  [Here](https://dsail-autoeda.streamlit.app/) __
+__Find__  it  [Here](https://dsail-autoeda.streamlit.app/)
